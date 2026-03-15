@@ -1,0 +1,194 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Rise Bulk Discounts for WooCommerce\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-02 05:30+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.9; php-8.2.12\n"
+"X-Domain: rise-bulk-discounts-for-woocommerce"
+
+#: admin/class-rise-bulk-discounts-for-woocommerce-admin.php:218
+#, php-format
+msgid "%s successfully."
+msgstr ""
+
+#: admin/class-rise-bulk-discounts-for-woocommerce-admin.php:246
+msgid "(Copy)"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:40
+msgid "Actions"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:125
+msgid "Active"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:32
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:27
+msgid "Add New Rule"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:144
+msgid "Cancel"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:50
+msgid "Created:"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:98
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:93
+msgid "Delete this rule?"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:89
+msgid "Disable"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:66
+msgid "Disabled"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:38
+msgid "Discount %"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:117
+msgid "Discount (%)"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:24
+msgid "Discount Rules"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:81
+msgid "Duplicate"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:73
+msgid "Edit"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:31
+msgid "Edit Rule"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:89
+msgid "Enable"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:130
+msgid "Enable rule"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:64
+msgid "Enabled"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:83
+msgid "Exclude Child Categories"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://https://profiles.wordpress.org/chandrakant7389//"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"https://https://wordpress.org/plugins/rise-bulk-discounts-for-woocommerce"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:79
+msgid "If none selected, all children are included."
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:65
+msgid "Include Child Categories"
+msgstr ""
+
+#. Author of the plugin
+msgid "JSP infotech"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:37
+msgid "Max"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:109
+msgid "Max Quantity"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:36
+msgid "Min"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:101
+msgid "Min Quantity"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:105
+msgid "No rules found."
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:52
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:35
+msgid "Parent Category"
+msgstr ""
+
+#: admin/class-rise-bulk-discounts-for-woocommerce-admin.php:119
+#: admin/class-rise-bulk-discounts-for-woocommerce-admin.php:120
+msgid "Rise Bulk Discounts"
+msgstr ""
+
+#. Name of the plugin
+msgid "Rise Bulk Discounts for WooCommerce"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Rise Bulk Discounts for WooCommerce lets you create quantity-based discount "
+"rules by product category, with full control over minimum/maximum quantities "
+"and child category inclusion or exclusion."
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:139
+msgid "Save Rule"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:59
+msgid "Select Category"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:39
+msgid "Status"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-display.php:44
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:34
+msgid "Title"
+msgstr ""
+
+#: admin/class-rise-bulk-discounts-for-woocommerce-admin.php:205
+msgid "Unauthorized"
+msgstr ""
+
+#: admin/class-rise-bulk-discounts-for-woocommerce-admin.php:297
+msgid "Untitled rule"
+msgstr ""
+
+#: admin/partials/rise-bulk-discounts-for-woocommerce-admin-list.php:52
+msgid "Updated:"
+msgstr ""
